@@ -1,1 +1,5 @@
-fitur02
+Nama    : Hilmi Surya Atmaja Tanu Wijaya
+No      : 32
+Kelas   : 12 SIJA A
+Umur    : 18 Tahun
+NISN    : 0065628213
